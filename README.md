@@ -1,0 +1,1 @@
+Containerized worker that sends current USD/UAH ratio to google analytics via measurement protocol.
